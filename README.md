@@ -6,3 +6,5 @@ Hi! My name is Lauren Hallameyer!
 :P Ask me anything about video games, I adore playing them whenever I get the chance!
 Pronouns are, she/her or they/them!
 :O Fun fact about me! I have been to 37 different states but never stepped out of the US. </body>
+<link href= https://github.com/topics/android-library>
+<link href= https://github.com/topics/archived-repository>
